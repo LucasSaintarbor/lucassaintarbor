@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklucassaintarbor=self.webpackChunklucassaintarbor||[]).push([[1547],{6224:a=>{a.exports=JSON.parse('{"permalink":"/lucassaintarbor/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklucassaintarbor=self.webpackChunklucassaintarbor||[]).push([[2209],{8450:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/lucassaintarbor/blog/tags/hola","allTagsPath":"/lucassaintarbor/blog/tags","count":1}')}}]);
