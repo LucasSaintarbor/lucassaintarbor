@@ -79,7 +79,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/LucasSaintarbor/lucassaintarbor',
+            href: 'https://github.com/LucasSaintarbor/',
             label: 'GitHub',
             position: 'right',
           },
