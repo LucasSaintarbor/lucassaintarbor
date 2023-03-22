@@ -135,7 +135,6 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
-};
 
 module.exports = {
   plugins: [
@@ -149,5 +148,5 @@ module.exports = {
         disableInDev: false,
       },
     ],
-  ],
+    };
 };
