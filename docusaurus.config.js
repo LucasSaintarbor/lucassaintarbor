@@ -138,7 +138,6 @@ const config = {
 };
 
 module.exports = {
-  config;
   plugins: [
     [
       '@docusaurus/plugin-ideal-image',
@@ -152,3 +151,6 @@ module.exports = {
     ],
   ],
 }
+
+
+module.exports = config;
